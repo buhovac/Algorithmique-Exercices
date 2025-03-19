@@ -1,3 +1,9 @@
+'''
+7.11. Moyenne de classe
+Écrivez un algorithme permettant à l’utilisateur de saisir les notes d’une classe.
+L’algorithme, une fois la saisie terminée, renvoie le nombre de ces notes supérieures à la
+moyenne de la classe.
+'''
 
 nombre_eleves = int(input("Nombre eleves? "))
 
